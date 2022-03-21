@@ -10,7 +10,7 @@ set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang!"
 # PM Text
 pm_start_text: |
   *Hai sayang, {} ❤️*
-  ✪ Saya adalah robot manajemen tema anime [✨](https://telegra.ph/file/6d3e3ef24f64fb6e35df0.jpg)
+  ✪ Saya adalah robot manajemen tema anime [✨](https://telegra.ph/file/5201e37b757fd8f4643e3.jpg)
 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
   × *Waktu Operasi Server :* `{}`
@@ -20,12 +20,12 @@ pm_start_text: |
   ✪ Tekan /help untuk melihat perintah saya yang tersedia.
    
 group_start_text: |
-  *👋🏻 Hai Sayang, aku Robot Siesta!* 
+  *👋🏻 Hai Sayang, aku Zero Two X* 
   
   *Mulai aktif sejak :* `{}`
 
 pm_about_text: |
-  ✺ Hai Sayang saya *Siesta Robot*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ✺
+  ✺ Hai Sayang saya *Zero Two X*, bot manajemen grup yang kuat yang dibuat untuk membantu Anda mengelola grup dengan mudah. ✺
 
   ✪ Saya dapat membatasi pengguna.
   ✪ Saya dapat menyapa pengguna dengan pesan selamat datang yang dapat disesuaikan dan bahkan menetapkan aturan grup.
@@ -35,7 +35,7 @@ pm_about_text: |
   ✪ Saya memeriksa izin admin sebelum menjalankan perintah apa pun dan hal lainnya
 
   _Siesta dilisensikan di bawah GNU General Public License v3.0_
-  Klik tombol di bawah untuk mendapatkan bantuan dasar untuk Robot Siesta.
+  Klik tombol di bawah untuk mendapatkan bantuan dasar untuk Robot Zero Two X.
 pm_about_admin_text: |
   *✺ Ayo buat grupmu sedikit efektif sekarang ✺*
 
@@ -54,7 +54,7 @@ pm_about_notes_text: |
   ✪ Anda dapat menyimpan pesan/media/audio atau apa pun sebagai catatan untuk mendapatkan catatan cukup gunakan # di awal kata"
   ✪ Anda juga dapat mengatur tombol untuk catatan dan filter (lihat menu bantuan)
 pm_about_support_text: |
-  *✺ Obrolan dukungan Robot Siesta ✺*
+  *✺ Obrolan dukungan Zero Two X ✺*
 
   Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Siesta.
 pm_about_credit_text: |
