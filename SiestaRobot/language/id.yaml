@@ -9,7 +9,7 @@ set_chat_lang: "Bagus, menggunakan Bahasa {} mulai sekarang!"
 
 # PM Text
 pm_start_text: |
-  *Hai sayang, {} ❤️*
+  *Hai Darling, {} ❤️*
   ✪ Saya adalah robot manajemen tema anime [✨](https://telegra.ph/file/5201e37b757fd8f4643e3.jpg)
 
   ┏━━━━━━━━•❃°•°❀°•°❃•━━━━━━━━┓
@@ -39,7 +39,7 @@ pm_about_text: |
 pm_about_admin_text: |
   *✺ Ayo buat grupmu sedikit efektif sekarang ✺*
 
-  Selamat, Robot Siesta sekarang siap untuk mengelola grup Anda.
+  Selamat, Zero Two sekarang siap untuk mengelola grup Anda.
 
   *Alat Admin*
   Alat Admin Dasar membantu Anda melindungi dan memperkuat grup Anda.
@@ -58,9 +58,9 @@ pm_about_support_text: |
 
   Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Siesta.
 pm_about_credit_text: |
-  *✺ Credits for Siesta ✺*
+  *✺ Credits for Zero Two ✺*
 
-  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Robot Siesta
+  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Zero Two
 pm_help_text: |
   *✺ Klik tombol di bawah ini untuk mendapatkan deskripsi tentang perintah spesifik. ✺*
 pm_help_module_text: "Berikut adalah bantuan untuk modul *{}* :\n\n"
